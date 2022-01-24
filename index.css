@@ -1,10 +1,15 @@
 .centered{ text-align: center; color: ghostwhite;}
 
-.table{ margin-left: auto; margin-right: auto; border: 10px solid white;}
+.table{margin-left:auto; margin-right: auto; border: 10px solid white;}
 .table1{ margin-left: auto; margin-right: auto; border: 5px solid #00000f;}
 
 .bgcolor1{ background-color: #00000f;}
-h3,.bgcolor2{background-color: #ffffff; color:#00000f}
-h1,h2{background-color: #00000f;}
-a{ background-color:#00000f;color:white; font-size: 22px; padding: 10px;}
-.a2{background-color: white; color:#00000f}
+h2,h3{background-color: #ffffff; color:#00000f}
+h1{background-color: #00000f;}
+a{ border:5px solid#00000f;border-radius: 20px;background-color: #00000f;color:#ffffff; font-size: 22px; padding: 10px;}
+.a2{background-color: white; color:#00000f; border:2px solid #ffffff}
+
+.bgcolor2{background-color: #ffffff; color:#00000f ;text-align:right; font-size: 55px; font-weight: 400;}
+.bgcolor3{background-color: #ffffff; color:#00000f ;border: #00000f;}
+th,td{font-size: 25px;border: 2px solid #00000f;}
+.td{border: 0px solid #ffffff;}
