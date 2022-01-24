@@ -13,3 +13,4 @@ a{ border:5px solid#00000f;border-radius: 20px;background-color: #00000f;color:#
 .bgcolor3{background-color: #ffffff; color:#00000f ;border: #00000f;}
 th,td{font-size: 25px;border: 2px solid #00000f;}
 .td{border: 0px solid #ffffff;}
+.style{border: 2px solid #00000f; border-radius: 25px;}
