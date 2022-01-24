@@ -5,7 +5,7 @@
 
 .bgcolor1{ background-color: #00000f;}
 h2,h3{background-color: #ffffff; color:#00000f}
-h1{background-color: #00000f;}
+h1{background-color: #00000f; font-family: cursive;}
 a{ border:5px solid#00000f;border-radius: 20px;background-color: #00000f;color:#ffffff; font-size: 22px; padding: 10px;}
 .a2{background-color: white; color:#00000f; border:2px solid #ffffff}
 
